@@ -1,2 +1,3 @@
 # 23SS-MLDL
-## 1. Juypter_Python_Basic
+## 1_Python_Basic.ipynb
+## 2_Machine_Learning_Basic.ipynb
